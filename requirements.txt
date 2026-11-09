@@ -1,0 +1,6 @@
+fontmake
+ufoLib2
+skia-pathops
+fonttools
+fontbakery[googlefonts]
+Pillow

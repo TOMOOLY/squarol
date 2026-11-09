@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign" format="2">
+  <advance width="732"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="323.5" y="200.0" type="line"/>
+      <point x="408.5" y="200.0" type="line"/>
+      <point x="408.5" y="0.0" type="line"/>
+      <point x="536.0" y="0.0" type="line"/>
+      <point x="536.0" y="200.0" type="line"/>
+      <point x="686.0" y="200.0" type="line"/>
+      <point x="686.0" y="313.3999938964844" type="line"/>
+      <point x="536.0" y="313.3999938964844" type="line"/>
+      <point x="536.0" y="386.6000061035156" type="line"/>
+      <point x="686.0" y="386.6000061035156" type="line"/>
+      <point x="686.0" y="500.0" type="line"/>
+      <point x="536.0" y="500.0" type="line"/>
+      <point x="536.0" y="700.0" type="line"/>
+      <point x="408.5" y="700.0" type="line"/>
+      <point x="408.5" y="500.0" type="line"/>
+      <point x="323.5" y="500.0" type="line"/>
+      <point x="323.5" y="700.0" type="line"/>
+      <point x="196.0" y="700.0" type="line"/>
+      <point x="196.0" y="500.0" type="line"/>
+      <point x="46.0" y="500.0" type="line"/>
+      <point x="46.0" y="386.6000061035156" type="line"/>
+      <point x="196.0" y="386.6000061035156" type="line"/>
+      <point x="196.0" y="313.3999938964844" type="line"/>
+      <point x="46.0" y="313.3999938964844" type="line"/>
+      <point x="46.0" y="200.0" type="line"/>
+      <point x="196.0" y="200.0" type="line"/>
+      <point x="196.0" y="0.0" type="line"/>
+      <point x="323.5" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="408.5" y="386.6000061035156" type="line"/>
+      <point x="408.5" y="313.3999938964844" type="line"/>
+      <point x="323.5" y="313.3999938964844" type="line"/>
+      <point x="323.5" y="386.6000061035156" type="line"/>
+    </contour>
+  </outline>
+</glyph>
